@@ -1,18 +1,19 @@
 # JConnect
 
-* A MERN application designed for college students, enabling them to efficiently organise their projects and assist clubs in making announcements.
-* Students can create, update or delete their project details and create public notes stating their requirements.
-* Club login has a dedicated announcements page for recruitments, events, etc visible in student login.
+- A MERN application designed for college students, enabling them to efficiently organise their projects and assist clubs in making announcements.
+- Students can create, update or delete their project details and create public notes stating their requirements.
+- Club login has a dedicated announcements page for recruitments, events, etc visible in student login.
 
 ## Getting Started
 
 Clone the repository, open it in a code editor and run
 
-```bash 
+```bash
 npm install
 ```
 
-In the root directory create a .env file and add firebase config details- 
+In the root directory create a .env file and add firebase config details-
+
 ```bash
 PORT=
 MONGO_URL=
@@ -22,6 +23,7 @@ CLOUDINARY_HOST=
 CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
 ```
+
 then run the development server:
 
 ```bash
@@ -29,7 +31,3 @@ npm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-### Demo
-https://github.com/Shreyansh-Agrawal/VConnect/assets/72445442/b01a7c21-24ff-4b62-83c2-750f044ca4f8
-
