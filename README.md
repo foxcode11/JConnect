@@ -4,35 +4,7 @@
 - Students can create, update or delete their project details and create public notes stating their requirements.
 - Club login has a dedicated announcements page for recruitments, events, etc visible in student login.
 
-## Getting Started
 
-Clone the repository, open it in a code editor and run
-
-```bash
-npm install
-```
-
-In the root directory create a .env file and add firebase config details-
-
-```bash
-PORT=
-MONGO_URL=
-JWT_SECRET=
-JWT_LIFETIME=
-CLOUDINARY_HOST=
-CLOUDINARY_API_KEY=
-CLOUDINARY_API_SECRET=
-```
-
-then run the development server:
-
-```bash
-npm start
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-<<<<<<< HEAD
-=======
 
 ## ScreenShot
 
@@ -49,5 +21,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ![Screenshot (222)](https://github.com/foxcode11/JConnect/assets/97304706/cfb1f469-41cb-4f99-a535-a90c956d5388)
 
 
-
->>>>>>> 4652b8bf9331b76f1654eeceb351e0b65bb30b6c
